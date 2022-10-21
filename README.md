@@ -1,6 +1,6 @@
 # 500-Hours-Henan-Dialect-Conversational-Speech-Data-by-Mobile-Phone
 
-https://www.datatang.ai/datasets/1113
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
